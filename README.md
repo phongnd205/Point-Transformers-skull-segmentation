@@ -1,4 +1,4 @@
-# Pytorch Implementation of Point-Transformers-skull-segmentation
+# Pytorch Implementation of Point Transformers
 
 ## Part Segmentation
 ### Data Preparation
